@@ -4,7 +4,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uranus2015&theme=dark)
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Uranus2015&theme=dark )
 
 <img   align="right" src="https://github-widgetbox.vercel.app/api/skills?languages=cpp,c,html,markdown&theme=dark&rank_icon=github"/>
 
