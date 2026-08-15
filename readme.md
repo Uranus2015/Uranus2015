@@ -1,9 +1,9 @@
 A student
-Don't know anything and don't good at anything;
-Worrying because of exam and job(When I finish my studying);
-Don't want grow up;
-/* Just let it burning in the storm of desperate, until it blown out*/
-Learning:
+ Don't know anything and don't good at anything;
+ Worrying because of exam and job(When I finish my studying);
+ Don't want grow up;
+ /* Just let it burning in the storm of desperate, until it blown out*/
+ Learning:
 - C++
 - Javascript
 - HTML
