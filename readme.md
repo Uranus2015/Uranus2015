@@ -2,7 +2,7 @@
  Don't know anything and don't good at anything; <br>
  Worrying because of exam and job(When I finish my studying); <br> 
  Don't want grow up; <br>
- /* Just let it burning in the storm of desperate, until it blown out*/ <br>
+<font color="Blue">/* Just let it burning in the storm of desperate, until it blown out*/ <font> <br>
  Learning:
 - C++
 - Javascript
