@@ -3,7 +3,7 @@
  Worrying because of exam and job(When I finish my studying); <br> 
  Don't want grow up; <br>
  
-<h3> <font color="Blue">/* *Live in desperate，and struggling for hope* */ </font> </h3>
+<h3> <font color="Blue">/* Live in desperate，and struggling for hope */ </font> </h3>
 
  Learning:
 - C++
