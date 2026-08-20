@@ -5,9 +5,8 @@
  
 <!--font color="Blue">/* Live in desperate, and struggling for hope; Life for code, and coding for love */ </font--> 
 
- **Learning:**
+ **Learning (2):**
 - C++ (beginner, only know how to use simple functions)
-- Javascript (almost only know console.log)
 - HTML (Almost only know very simple tags, don't know CSS)
 <br> <br>
 Sorry, my skills are poor...But I still trying to coding better...
