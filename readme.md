@@ -3,7 +3,7 @@
 - Don't know anything and don't good at anything;(Sorry for this) <br>
 - Worrying because of exam and job(When I finish my studying); <br> 
  
-<font color="Blue">/* Live in desperate, and struggling for hope; Life for code, and coding for love */ </font> 
+<!--font color="Blue">/* Live in desperate, and struggling for hope; Life for code, and coding for love */ </font--> 
 
  **Learning:**
 - C++ (beginner, only know how to use simple functions)
