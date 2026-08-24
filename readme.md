@@ -2,9 +2,6 @@
 - A student <br>
 - Don't know anything and don't good at anything;(Sorry for this) <br>
 - Worrying because of exam and job(When I finish my studying); <br>
-#### My username:
-- **Uranus2015** <br>
-_It is only one_
 <!--font color="Blue">/* Live in desperate, and struggling for hope; Life for code, and coding for love */ </font--> 
 
  ### Learning (2):
