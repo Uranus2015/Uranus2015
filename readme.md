@@ -1,11 +1,13 @@
-**About me：**
+### About me：
 - A student <br>
 - Don't know anything and don't good at anything;(Sorry for this) <br>
-- Worrying because of exam and job(When I finish my studying); <br> 
- 
+- Worrying because of exam and job(When I finish my studying); <br>
+**My username:**
+- Uranus2015
+_It is only one_
 <!--font color="Blue">/* Live in desperate, and struggling for hope; Life for code, and coding for love */ </font--> 
 
- **Learning (2):**
+ ## Learning (2):
 - C++ (beginner, only know how to use simple functions)
 - HTML (Almost only know very simple tags, don't know CSS)
 <br> <br>
