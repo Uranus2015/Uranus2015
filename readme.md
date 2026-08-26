@@ -9,5 +9,6 @@
 - HTML (Almost only know very simple tags, don't know CSS)
 <br> <br>
 Sorry, my skills are poor...But I still trying to coding better...
+If I don't get into university next year, this account will become a tombstone for me and my dreams...
 <!--A big fan of Windows 10 and Toko Madobe,the Windows 10 chan and Nanami madobe,the Windows 7 chan-->
 <!--If I can't become an engineer, my dream will buried in this readme-->
