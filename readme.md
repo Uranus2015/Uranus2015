@@ -11,8 +11,6 @@
 <br> <br>
 Sorry, my skills are poor...But I still trying to coding better...
 
-### About my name：
-Nebo means Sky，same to Sora in Japanese. **While the character's (Madobe Tōko)  former candidate name was Sora**(<a herf:https://moeverse.xyz/db/TokoMadobe>Data from</a>)
 If I don't get into university next year, this account will become a tombstone for me and my dreams...
 <!--A big fan of Windows 10 and Toko Madobe,the Windows 10 chan and Nanami madobe,the Windows 7 chan-->
 <!--If I can't become an engineer, my dream will buried in this readme-->
